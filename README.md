@@ -3,5 +3,5 @@ End-to-end e-commerce data analytics project using PostgreSQL and Power BI. Incl
 
 ![image alt](https://github.com/mbcgit-hub18/E-Commerce-Data-Analytics-Project/blob/e224104e7061a8e39448f9a79b73557d09ab0e97/Images/P.BI%20Overview%20%20.png)
 ![image alt](https://github.com/mbcgit-hub18/E-Commerce-Data-Analytics-Project/blob/0819daf9329a49b26410606fe03a561802dabd60/Images/P.BI%20Sales%20Trends%20.png)
-
+![image alt](https://github.com/mbcgit-hub18/E-Commerce-Data-Analytics-Project/blob/80c15229ffd025210ddb73d46fa2536bc2045a31/Images/P.BI%20Payments%20.png)
 
